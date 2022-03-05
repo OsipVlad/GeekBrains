@@ -138,7 +138,7 @@ class Lesson_1
         static float index_Mass(float m, float h)
         {
             return m / (h * h);
-        } //Формула по подсчету индекса массы тела
+        } //Формула по подсчету индекса массы тела.
 
         
         static double DistancePoint(double x1, double x2, double y1, double y2)
